@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+flask
+torch
+tensorflow
+matplotlib
